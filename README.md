@@ -91,7 +91,7 @@ The dataset also includes information on the publicly accessible concession repo
 
 If you use this repository or the associated dataset, please cite the corresponding paper:
 
-Karmakar, Ankan and Chhetiya, Inder and Delhi, Venkata Santosh Kumar, *Automating subjective regulatory justifications in building permit workflows using concept-guided retrieval-augmented generation (RAG) and human-in-the-loop verification*. Available at: <https://doi.org/10.1016/j.autcon.2026.107358>
+Karmakar, Ankan; Chhetiya, Inder; and Delhi, Venkata Santosh Kumar, *Automating subjective regulatory justifications in building permit workflows using concept-guided retrieval-augmented generation (RAG) and human-in-the-loop verification*. Available at: <https://doi.org/10.1016/j.autcon.2026.107358>
 
 ## Contact
 
